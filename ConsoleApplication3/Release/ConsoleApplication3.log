@@ -1,0 +1,19 @@
+﻿Build started 3/31/2014 8:07:12 PM.
+     1>Project "c:\Users\Pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\CalcMain.cpp ..\Calculator\Calculator.cpp ..\IO\ioutil.cpp
+         CalcMain.cpp
+         Calculator.cpp
+         ioutil.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\Release\ConsoleApplication3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\Release\ConsoleApplication3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\Release\ConsoleApplication3.lib" /MACHINE:X86 /SAFESEH Release\CalcMain.obj
+         Release\Calculator.obj
+         Release\ioutil.obj
+         Generating code
+         Finished generating code
+         ConsoleApplication3.vcxproj -> c:\users\pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\Release\ConsoleApplication3.exe
+     1>Done Building Project "c:\Users\Pyratic\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.35
